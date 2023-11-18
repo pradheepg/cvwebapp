@@ -1,0 +1,33 @@
+
+.section{
+    margin: auto;
+    color: white;
+    background-color: #116D6E;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 400px;
+    padding: 0px 0vw;
+    align-content: center;
+    
+
+}
+
+.pink{
+    background-color: #321E1E;
+    height: 600px;
+}
+.red{
+    background-color: #4E3636;
+    height: 600px;
+}
+.dark{
+    background-color: #CD1818;
+    height: 600px;
+}
+.blue{
+    background-color: #116D6E ;
+    height: 600px;
+}
+
