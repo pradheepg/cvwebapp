@@ -6,11 +6,12 @@ import reportWebVitals from './reportWebVitals';
 import Section from './componets/Section';
 import Navbar from './componets/Navbar';
 import { BrowserRouter} from "react-router-dom"
+import image from "./image.jpf"; 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter style={{ backgroundImage:`url(${image})` }}>
     <App></App>
     </BrowserRouter>
   </React.StrictMode>
