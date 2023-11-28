@@ -1,8 +1,9 @@
 
 .section{
+    
     margin: auto;
-    color: white;
-    background-color: #116D6E;
+    color: rgb(255, 255, 255);
+    background-image: url('image/night.jpg');
     position: relative;
     display: flex;
     flex-direction: column;
@@ -11,23 +12,24 @@
     padding: 0px 0vw;
     align-content: center;
     
+    
 
 }
 
 .pink{
-    background-color: #321E1E;
+    background-image: url('image/night.jpg');
     height: 700px;
 }
 .red{
-    background-color: #4E3636;
+    background-image: url('image/night.jpg');
     height: 700px;
 }
 .dark{
-    background-color: #CD1818;
+    background-image: url('image/night.jpg');
     height: 700px;
 }
 .blue{
-    background-color: #131515 ;
+    
     height: 700px;
 }
 
