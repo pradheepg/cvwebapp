@@ -1,5 +1,5 @@
 export default function Blog(){
     return(
-        <h1>Blog still working</h1>
+        <h1>Soon!!!!!!!!!!!</h1>
     );
 }
