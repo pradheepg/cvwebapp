@@ -3,12 +3,12 @@
 }
 .nav{
     background-color: #131515;
-    color: white;
+    color: #dddbcb;
     margin: 0;
     display: flex;
     justify-content: space-between;
     align-items: stretch;
-    gap: 2rem;
+    gap: 5rem;
     padding: 0 1rem;
 }
 .site-title{
@@ -20,6 +20,10 @@
     list-style: none;
     display: flex;
     gap: 1rem;
+}
+.nav a.cal{
+    color: #008080;
+    
 }
 .nav a{
     color: inherit;
@@ -35,3 +39,4 @@
 .nav a:hover{
     background-color: rebeccapurple;
 }
+

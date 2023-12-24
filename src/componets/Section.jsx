@@ -3,7 +3,7 @@ import "./image/night.jpg";
 export default function Section(){
     return(
         <div className="section"> 
-            <section id="home" className="blue"><h1 className="h1">Hey there!👋 I'm Pradheep,</h1><p> a computer science enthusiast on a journey of continuous learning and exploration.</p></section>
+            <section id="home" className="blue"><h4>Start<a className="point">/&gt;</a></h4><h3 className="h1">Hey there<a className="point">!</a>👋</h3><h1 className="name">I'm <a className="fam">Pradheep</a> <a className="point">,</a></h1><p> a computer science <a className="fam">enthusiast</a> on a journey of continuous learning and exploration<a className="point">.</a></p></section>
             <section id="about"className="red">
             <h1 className="h1">About Me</h1>
             <p>Hello! I'm Pradheep, a dedicated computer science student with a passion for crafting innovative solutions and exploring the endless possibilities of technology. Currently pursuing my degree in Computer Science at Dr N.G.Pasc, I thrive on the challenges and creativity that coding brings to the table.</p>

@@ -1,8 +1,8 @@
-
+@import url('https://fonts.googleapis.com/css?family=Sofia');
 .section{
     
     margin: auto;
-    color: rgb(255, 255, 255);
+    color:#dddbcb;
     background-image: url('image/night.jpg');
     position: relative;
     display: flex;
@@ -29,7 +29,17 @@
     height: 700px;
 }
 .blue{
-    
+    vertical-align: text-bottom;
+    text-align: left;
+    font-size: 23px;
     height: 700px;
 }
-
+.name{
+    
+}
+.point{
+    color: #008080;
+}
+.fam{
+    font-family: "Sofia", sans-serif;
+}
